@@ -1,4 +1,4 @@
-package com.proyect.ProyectJWT.dominio;
+package com.proyect.ProyectJWT.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

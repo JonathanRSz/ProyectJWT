@@ -1,6 +1,6 @@
-package com.proyect.ProyectJWT.dao;
+package com.proyect.ProyectJWT.repository;
 
-import com.proyect.ProyectJWT.dominio.Usuario;
+import com.proyect.ProyectJWT.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

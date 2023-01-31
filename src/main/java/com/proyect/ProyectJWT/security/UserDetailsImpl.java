@@ -1,6 +1,6 @@
 package com.proyect.ProyectJWT.security;
 
-import com.proyect.ProyectJWT.dominio.Usuario;
+import com.proyect.ProyectJWT.model.Usuario;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

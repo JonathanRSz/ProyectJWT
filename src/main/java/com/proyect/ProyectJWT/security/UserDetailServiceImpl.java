@@ -1,7 +1,7 @@
 package com.proyect.ProyectJWT.security;
 
-import com.proyect.ProyectJWT.dao.UsuarioRepository;
-import com.proyect.ProyectJWT.dominio.Usuario;
+import com.proyect.ProyectJWT.repository.UsuarioRepository;
+import com.proyect.ProyectJWT.model.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
