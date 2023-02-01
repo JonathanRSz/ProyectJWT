@@ -1,0 +1,6 @@
+
+INSERT INTO USUARIO VALUES(1,'Jonathan','Sanchez','jonathan@correo.com','$2a$10$4fNnbQ7pA5CWkL96bq20jesB9us2B31vXnf9mZL2KDKN5o0ZJTBXm');
+
+//usuario: admin@correo.com
+//contraseña : admin
+INSERT INTO USUARIO VALUES(1,'admin','admin@correo.com','$2a$10$PVLGyoaZnx6A/2zbTUzYKuMLVMguRT52RFA7z1TJQ97.DvObHK5b6');
