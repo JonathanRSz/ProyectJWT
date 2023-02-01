@@ -3,4 +3,5 @@ INSERT INTO USUARIO VALUES(1,'Jonathan','Sanchez','jonathan@correo.com','$2a$10$
 
 //usuario: admin@correo.com
 //contraseña : admin
-INSERT INTO USUARIO VALUES(1,'admin','admin@correo.com','$2a$10$PVLGyoaZnx6A/2zbTUzYKuMLVMguRT52RFA7z1TJQ97.DvObHK5b6');
+
+INSERT INTO USUARIO VALUES(2,'admin','admin@correo.com','$2a$10$PVLGyoaZnx6A/2zbTUzYKuMLVMguRT52RFA7z1TJQ97.DvObHK5b6');
