@@ -12,7 +12,5 @@ public class PassGen {
 
     }
 }
- 
-//$2a$10$G6BnV0YosGu3VUemnp039eMtrgbcvhrBAa2PecuujGekTRwSRIUPS
-//$2a$10$o17vDWmUp63GQPuWMhTbxeY9woH/gdLfokhYmsQRMdVlOX9ul8dgm
-//$2a$10$yBZ8bJC7XIhPQ7Oe3y.2Reh6U0PMqIPhWIu8okSaZUIP7j2slO3hu
+//"admin"
+//$2a$10$rJ5.HsQcmsP3BlpoYLib3O8ZyZ8eyjFEoT3tjc4DV.lKPeappxf2K
